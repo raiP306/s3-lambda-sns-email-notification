@@ -45,7 +45,6 @@ s3-sns-email-notification/
 │
 ├── lambda_function.py
 ├── architecture-diagram.png
-├── working-flow-diagram.png
 └── README.md
 ```
 
